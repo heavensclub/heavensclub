@@ -7,7 +7,7 @@ Official website for **Heavens Arts & Sports Club**, Masthangally, Kerala.
 
 ## 🌐 Live Site
 
-Visit: [https://YOUR_USERNAME.github.io/Heavensclub](https://YOUR_USERNAME.github.io/Heavensclub)
+Visit: [https://heavensclub.github.io/Heavensclub](https://heavensclub.github.io/Heavensclub)
 
 ## 🚀 Deploy to GitHub Pages
 
